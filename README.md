@@ -45,7 +45,7 @@ You are given bhp.csv which contains property prices in the city of banglore, In
   Step 8
      Save the final data set into the file.
      
-  #Code:
+  # Code:
   ```
  import pandas as pd
 df=pd.read_csv('/content/height_weight (1).csv')
