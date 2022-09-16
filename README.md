@@ -77,43 +77,45 @@ df.to_csv('heights.csv', index=False)
 # OUTPUT:
 
 ###
+
 Read the CSV file:
+
 ![image](https://user-images.githubusercontent.com/94165327/190644988-0adf2e71-12c4-4e6f-905b-06b7ec3003e1.png)
 
 
-###
+
 After removing non numeric columns:
 
 ![image](https://user-images.githubusercontent.com/94165327/190645109-59b70b5c-28fe-47ef-bf7a-c0890e64dfb8.png)
 
-###
+
 
 Representation of boxplot
 
 ![image](https://user-images.githubusercontent.com/94165327/190645484-54462317-641c-45a4-a0b3-babe6fa2d786.png)
 
-###
+
 z scores method
 
 ![image](https://user-images.githubusercontent.com/94165327/190645908-44809347-0f4d-4def-8c31-d6dea47a7bad.png)
 
-###
+
 Using IQR detect weight outliers and print them
 
 
 ![image](https://user-images.githubusercontent.com/94165327/190645971-0ccc64e3-270b-4d5c-8932-c6223d95ef5a.png)
 
-###
+
 Using IQR, detect height outliers and print them
 
 
 ![image](https://user-images.githubusercontent.com/94165327/190646041-552a7e5b-9d14-4ec4-8797-aced7c1706bf.png)
 
-###
+
 
 ![image](https://user-images.githubusercontent.com/94165327/190646163-84068b2d-6ca8-4f08-82af-64048b5a87b3.png)
 
-
+###
 #
 Result:
 
