@@ -153,6 +153,39 @@ sns.boxplot(x="height",data=df5)
 # OUTPUT:
 
 
+![image](https://user-images.githubusercontent.com/94165327/191453831-f79c22de-80da-4e9f-99d1-a579d99bf125.png)
+
+![image](https://user-images.githubusercontent.com/94165327/191453926-acf551eb-b132-4ac5-b064-be7490ea577f.png)
+
+![image](https://user-images.githubusercontent.com/94165327/191454023-543d78de-bc8c-461a-a8af-758cd84d74c2.png)
+
+![image](https://user-images.githubusercontent.com/94165327/191454096-290eab73-3fee-41bb-8078-c1576df4954d.png)
+
+![image](https://user-images.githubusercontent.com/94165327/191454247-13ef8aea-1a56-45fd-b152-24d730ac3383.png)
+
+![image](https://user-images.githubusercontent.com/94165327/191454321-1cd028bb-4f03-4dc0-bdf7-855ec2993e3b.png)
+
+![image](https://user-images.githubusercontent.com/94165327/191454379-bbb14b32-5d2b-4c7e-a1ad-c84662996458.png)
+
+![image](https://user-images.githubusercontent.com/94165327/191454518-25db25e9-a966-4a66-8d7c-21ccf291c741.png)
+
+![image](https://user-images.githubusercontent.com/94165327/191454573-9ffae1d0-f3ec-4303-a100-329854db7839.png)
+
+![image](https://user-images.githubusercontent.com/94165327/191454633-311ac4b9-f5c9-42b0-997f-f4ebbcd41ca4.png)
+
+![image](https://user-images.githubusercontent.com/94165327/191454699-13221bb1-cf45-46ef-acda-98feb099c311.png)
+
+![image](https://user-images.githubusercontent.com/94165327/191454847-00841e17-9a54-4837-a78b-cbd500ba6ca2.png)
+
+![image](https://user-images.githubusercontent.com/94165327/191454931-c38fb5c6-c8ad-455f-b1ee-11c3a0748b1b.png)
+
+![image](https://user-images.githubusercontent.com/94165327/191454991-06effb74-ac4d-4c55-8e8f-70dd628eed81.png)
+
+![image](https://user-images.githubusercontent.com/94165327/191455051-94a62e28-f766-41b1-95fa-5a470237c309.png)
+
+
+
+
 ###
 #
 Result:
